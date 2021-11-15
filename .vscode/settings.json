@@ -2,5 +2,7 @@
     "files.associations": {
         "ostream": "cpp",
         "iostream": "cpp"
-    }
+    },
+    "svn.ignoreMissingSvnWarning": true,
+    "C_Cpp.errorSquiggles": "Disabled"
 }
